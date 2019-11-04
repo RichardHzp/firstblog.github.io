@@ -3,7 +3,7 @@ title: 经典排序算法
 date: 2019-11-04 22:05:51
 tags:
 ---
-##经典排序算法
+## 经典排序算法
 * 1、冒泡排序
 ```
 function bubbleSort(arr) {
